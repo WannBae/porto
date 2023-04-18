@@ -14,7 +14,10 @@ module.exports = {
         insta:'#833AB4',
       },
       screens:{
-        '2xl':'1320px'
+        '2xl':'1320px',
+      },
+      topNav:{
+        top:'80%',
       }
     },
   },
